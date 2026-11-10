@@ -1,0 +1,491 @@
+2026-11-04 22:31:01,747 | INFO | src.data_ingestion | Starting dataset ingestion: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\data\raw\predictive_maintenance_dataset.csv
+2026-11-04 22:31:01,926 | INFO | src.data_ingestion | Dataset loaded successfully. Rows: 124494, Columns: 12
+2026-11-04 22:31:01,926 | INFO | src.data_ingestion | Dataset ingestion completed successfully.
+2026-11-04 22:34:09,797 | INFO | src.data_ingestion | Starting dataset ingestion: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\data\raw\predictive_maintenance_dataset.csv
+2026-11-04 22:34:09,949 | INFO | src.data_ingestion | Dataset loaded successfully. Rows: 124494, Columns: 12
+2026-11-04 22:34:09,957 | INFO | src.data_ingestion | Dataset ingestion completed successfully.
+2026-11-04 22:34:09,957 | INFO | src.data_validation | Starting data validation.
+2026-11-04 22:34:09,957 | INFO | src.data_validation | Schema validation passed.
+2026-11-04 22:34:10,189 | WARNING | src.data_validation | Dataset contains 1 duplicate records.
+2026-11-04 22:34:10,189 | INFO | src.data_validation | Data validation completed successfully.
+2026-11-04 22:34:10,197 | INFO | src.data_validation | Data quality report saved to C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\reports\quality_reports\data_quality_report.json
+2026-11-04 22:35:25,315 | INFO | src.data_ingestion | Starting dataset ingestion: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\data\raw\predictive_maintenance_dataset.csv
+2026-11-04 22:35:25,442 | INFO | src.data_ingestion | Dataset loaded successfully. Rows: 124494, Columns: 12
+2026-11-04 22:35:25,442 | INFO | src.data_ingestion | Dataset ingestion completed successfully.
+2026-11-04 22:39:57,284 | INFO | src.data_ingestion | Starting dataset ingestion: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\data\raw\predictive_maintenance_dataset.csv
+2026-11-04 22:39:57,456 | INFO | src.data_ingestion | Dataset loaded successfully. Rows: 124494, Columns: 12
+2026-11-04 22:39:57,456 | INFO | src.data_ingestion | Dataset ingestion completed successfully.
+2026-11-04 22:39:57,456 | INFO | __main__ | Starting feature analysis.
+2026-11-04 22:39:57,802 | INFO | __main__ | Feature analysis completed successfully.
+2026-11-04 22:39:57,807 | INFO | __main__ | Feature analysis report saved: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\reports\quality_reports\feature_analysis.json
+2026-11-04 22:41:09,591 | INFO | src.data_ingestion | Starting dataset ingestion: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\data\raw\predictive_maintenance_dataset.csv
+2026-11-04 22:41:09,797 | INFO | src.data_ingestion | Dataset loaded successfully. Rows: 124494, Columns: 12
+2026-11-04 22:41:09,804 | INFO | src.data_ingestion | Dataset ingestion completed successfully.
+2026-11-04 22:41:44,876 | INFO | src.data_ingestion | Starting dataset ingestion: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\data\raw\predictive_maintenance_dataset.csv
+2026-11-04 22:41:44,966 | INFO | src.data_ingestion | Dataset loaded successfully. Rows: 124494, Columns: 12
+2026-11-04 22:41:44,966 | INFO | src.data_ingestion | Dataset ingestion completed successfully.
+2026-11-04 22:45:07,403 | INFO | src.data_ingestion | Starting dataset ingestion: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\data\raw\predictive_maintenance_dataset.csv
+2026-11-04 22:45:07,550 | INFO | src.data_ingestion | Dataset loaded successfully. Rows: 124494, Columns: 12
+2026-11-04 22:45:07,552 | INFO | src.data_ingestion | Dataset ingestion completed successfully.
+2026-11-04 22:45:07,554 | INFO | __main__ | Starting feature engineering.
+2026-11-04 22:45:07,797 | INFO | __main__ | Removed 1 exact duplicate records.
+2026-11-04 22:45:07,871 | INFO | __main__ | Feature engineering completed. Rows: 124493, Features: 11
+2026-11-04 22:45:07,875 | INFO | __main__ | Failure distribution: {0: 124387, 1: 106}
+2026-11-04 22:45:08,884 | INFO | __main__ | Processed dataset saved: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\data\processed\processed_predictive_maintenance.csv
+2026-11-04 22:45:08,884 | INFO | __main__ | Feature metadata saved: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\data\processed\feature_metadata.json
+2026-11-04 22:49:45,110 | INFO | src.data_ingestion | Starting dataset ingestion: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\data\raw\predictive_maintenance_dataset.csv
+2026-11-04 22:49:45,281 | INFO | src.data_ingestion | Dataset loaded successfully. Rows: 124494, Columns: 12
+2026-11-04 22:49:45,281 | INFO | src.data_ingestion | Dataset ingestion completed successfully.
+2026-11-04 22:49:45,286 | INFO | __main__ | Starting feature engineering.
+2026-11-04 22:49:45,553 | INFO | __main__ | Removed 1 exact duplicate records.
+2026-11-04 22:49:45,620 | INFO | __main__ | Feature engineering completed. Rows: 124493, Features: 11
+2026-11-04 22:49:45,630 | INFO | __main__ | Failure distribution: {0: 124387, 1: 106}
+2026-11-04 22:49:46,580 | INFO | __main__ | Processed dataset saved: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\data\processed\processed_predictive_maintenance.csv
+2026-11-04 22:49:46,582 | INFO | __main__ | Feature metadata saved: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\data\processed\feature_metadata.json
+2026-11-04 22:51:26,564 | INFO | __main__ | Loading processed dataset: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\data\processed\processed_predictive_maintenance.csv
+2026-11-04 22:52:17,557 | INFO | src.data_ingestion | Starting dataset ingestion: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\data\raw\predictive_maintenance_dataset.csv
+2026-11-04 22:52:17,667 | INFO | src.data_ingestion | Dataset loaded successfully. Rows: 124494, Columns: 12
+2026-11-04 22:52:17,667 | INFO | src.data_ingestion | Dataset ingestion completed successfully.
+2026-11-04 22:53:59,461 | INFO | __main__ | Loading processed dataset: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\data\processed\processed_predictive_maintenance.csv
+2026-11-04 22:53:59,705 | INFO | __main__ | Starting stratified device-level split.
+2026-11-04 22:54:00,171 | INFO | __main__ | Device-level split completed successfully.
+2026-11-04 23:04:21,240 | INFO | __main__ | Loading processed dataset: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\data\processed\processed_predictive_maintenance.csv
+2026-11-04 23:04:21,486 | INFO | __main__ | Starting stratified device-level split.
+2026-11-04 23:04:21,960 | INFO | __main__ | Device-level split completed successfully.
+2026-11-04 23:06:38,205 | INFO | __main__ | Loading processed dataset: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\data\processed\processed_predictive_maintenance.csv
+2026-11-04 23:06:38,385 | INFO | __main__ | Processed dataset loaded successfully. Rows: 124493, Columns: 15
+2026-11-04 23:06:38,391 | INFO | __main__ | Starting stratified device-level split.
+2026-11-04 23:06:38,443 | INFO | __main__ | Total unique devices: 1169
+2026-11-04 23:06:38,443 | INFO | __main__ | Devices with failures: 106
+2026-11-04 23:06:38,686 | INFO | __main__ | Device-level split completed successfully.
+2026-11-04 23:08:47,485 | INFO | __main__ | Loading processed dataset: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\data\processed\processed_predictive_maintenance.csv
+2026-11-04 23:08:47,870 | INFO | __main__ | Dataset loaded successfully. Rows: 124493, Columns: 15
+2026-11-04 23:08:47,870 | INFO | __main__ | Starting stratified device-level split.
+2026-11-04 23:08:48,298 | INFO | __main__ | Device-level split completed successfully.
+2026-11-04 23:08:48,421 | INFO | __main__ | Starting model training and validation.
+2026-11-04 23:08:48,439 | INFO | __main__ | Training model: Dummy Classifier
+2026-11-04 23:08:48,542 | INFO | __main__ | Dummy Classifier trained and saved at C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\dummy_classifier.joblib
+2026-11-04 23:08:48,542 | INFO | __main__ | Training model: Logistic Regression
+2026-11-04 23:08:49,124 | INFO | __main__ | Logistic Regression trained and saved at C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\logistic_regression.joblib
+2026-11-04 23:08:49,124 | INFO | __main__ | Training model: Random Forest
+2026-11-04 23:08:58,394 | INFO | __main__ | Random Forest trained and saved at C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\random_forest.joblib
+2026-11-04 23:08:58,547 | INFO | __main__ | Model training and validation completed.
+2026-11-04 23:14:19,901 | INFO | __main__ | Loading processed dataset: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\data\processed\processed_predictive_maintenance.csv
+2026-11-04 23:14:20,242 | INFO | __main__ | Dataset loaded successfully. Rows: 124493, Columns: 15
+2026-11-04 23:14:20,242 | INFO | __main__ | Starting stratified device-level split.
+2026-11-04 23:14:20,633 | INFO | __main__ | Device-level split completed successfully.
+2026-11-04 23:14:20,804 | INFO | __main__ | Starting model training and threshold analysis.
+2026-11-04 23:14:20,839 | INFO | __main__ | Training model: Dummy Classifier
+2026-11-04 23:14:21,009 | INFO | __main__ | Training model: Logistic Regression
+2026-11-04 23:14:21,911 | INFO | __main__ | Training model: Random Forest
+2026-11-04 23:14:31,660 | INFO | __main__ | Threshold analysis completed successfully.
+2026-11-04 23:16:13,414 | INFO | __main__ | Loading processed dataset: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\data\processed\processed_predictive_maintenance.csv
+2026-11-04 23:16:13,619 | INFO | __main__ | Dataset loaded successfully. Rows: 124493, Columns: 15
+2026-11-04 23:16:13,619 | INFO | __main__ | Starting stratified device-level split.
+2026-11-04 23:16:13,938 | INFO | __main__ | Device-level split completed successfully.
+2026-11-04 23:16:14,047 | INFO | __main__ | Starting model training and threshold analysis.
+2026-11-04 23:16:14,061 | INFO | __main__ | Training model: Dummy Classifier
+2026-11-04 23:16:14,197 | INFO | __main__ | Training model: Logistic Regression
+2026-11-04 23:16:14,757 | INFO | __main__ | Training model: Random Forest
+2026-11-04 23:16:22,695 | INFO | __main__ | Threshold analysis completed successfully.
+2026-11-04 23:18:48,871 | INFO | __main__ | Loading processed dataset: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\data\processed\processed_predictive_maintenance.csv
+2026-11-04 23:18:49,108 | INFO | __main__ | Dataset loaded successfully. Rows: 124493, Columns: 15
+2026-11-04 23:18:49,108 | INFO | __main__ | Starting stratified device-level split.
+2026-11-04 23:18:49,399 | INFO | __main__ | Device-level split completed successfully.
+2026-11-04 23:18:49,616 | INFO | __main__ | Starting model training and threshold analysis.
+2026-11-04 23:18:49,626 | INFO | __main__ | Training model: Dummy Classifier
+2026-11-04 23:18:49,726 | INFO | __main__ | Training model: Logistic Regression
+2026-11-04 23:18:50,372 | INFO | __main__ | Training model: Random Forest
+2026-11-04 23:19:01,263 | INFO | __main__ | Threshold analysis completed successfully.
+2026-11-04 23:19:01,274 | INFO | __main__ | Starting final test evaluation.
+2026-11-04 23:19:01,949 | INFO | __main__ | Final test evaluation completed.
+2026-11-04 23:21:53,220 | INFO | __main__ | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-04 23:21:57,174 | INFO | __main__ | Model loaded successfully: Random Forest
+2026-11-04 23:21:57,324 | INFO | __main__ | Starting inference for 5 observations.
+2026-11-04 23:21:57,482 | INFO | __main__ | Inference completed successfully. Predicted failures: 0
+2026-11-04 23:26:38,732 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-04 23:26:42,676 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-04 23:26:42,807 | INFO | src.model_inference | Starting inference for 5 observations.
+2026-11-04 23:26:42,971 | INFO | src.model_inference | Inference completed successfully. Predicted failures: 0
+2026-11-04 23:26:42,983 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-04 23:26:43,165 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-04 23:26:43,249 | INFO | src.model_inference | Starting inference for 5 observations.
+2026-11-04 23:26:43,315 | INFO | src.model_inference | Inference completed successfully. Predicted failures: 0
+2026-11-04 23:26:43,319 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-04 23:26:43,462 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-04 23:26:43,583 | INFO | src.model_inference | Starting inference for 5 observations.
+2026-11-04 23:26:43,659 | INFO | src.model_inference | Inference completed successfully. Predicted failures: 0
+2026-11-04 23:26:43,672 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-04 23:26:43,863 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-04 23:26:44,001 | INFO | src.model_inference | Starting inference for 5 observations.
+2026-11-04 23:26:44,001 | ERROR | src.model_inference | Input validation failed.
+Traceback (most recent call last):
+  File "C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\src\model_inference.py", line 112, in validate_input
+    raise ValueError(
+ValueError: Missing features: ['metric1']
+2026-11-04 23:26:44,015 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-04 23:26:44,224 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-04 23:26:44,231 | INFO | src.model_inference | Starting inference for 0 observations.
+2026-11-04 23:26:44,232 | ERROR | src.model_inference | Input validation failed.
+Traceback (most recent call last):
+  File "C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\src\model_inference.py", line 103, in validate_input
+    raise ValueError("Input data is empty.")
+ValueError: Input data is empty.
+2026-11-04 23:28:28,985 | INFO | src.data_validation | Starting data validation.
+2026-11-04 23:28:28,985 | INFO | src.data_validation | Schema validation passed.
+2026-11-04 23:28:29,040 | INFO | src.data_validation | Data validation completed successfully.
+2026-11-04 23:28:29,057 | INFO | src.data_validation | Starting data validation.
+2026-11-04 23:28:29,059 | INFO | src.data_validation | Schema validation passed.
+2026-11-04 23:28:29,081 | WARNING | src.data_validation | Dataset contains 1 missing cells.
+2026-11-04 23:28:29,081 | INFO | src.data_validation | Data validation completed successfully.
+2026-11-04 23:28:29,111 | INFO | src.data_validation | Starting data validation.
+2026-11-04 23:28:29,113 | INFO | src.data_validation | Schema validation passed.
+2026-11-04 23:28:29,133 | WARNING | src.data_validation | Dataset contains 1 duplicate records.
+2026-11-04 23:28:29,135 | INFO | src.data_validation | Data validation completed successfully.
+2026-11-04 23:28:29,149 | INFO | src.data_validation | Starting data validation.
+2026-11-04 23:28:29,149 | INFO | src.data_validation | Schema validation passed.
+2026-11-04 23:28:29,158 | WARNING | src.data_validation | Target variable contains invalid or missing values.
+2026-11-04 23:28:29,158 | INFO | src.data_validation | Data validation completed successfully.
+2026-11-04 23:28:29,173 | INFO | src.data_validation | Starting data validation.
+2026-11-04 23:28:29,179 | ERROR | src.data_validation | Data validation failed.
+Traceback (most recent call last):
+  File "C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\src\data_validation.py", line 48, in validate_data
+    raise DataValidationError(
+src.data_validation.DataValidationError: Missing required columns: ['metric1']
+2026-11-04 23:28:29,190 | INFO | src.data_validation | Starting data validation.
+2026-11-04 23:28:29,190 | ERROR | src.data_validation | Data validation failed.
+Traceback (most recent call last):
+  File "C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\src\data_validation.py", line 35, in validate_data
+    raise DataValidationError(
+src.data_validation.DataValidationError: Cannot validate an empty dataset.
+2026-11-04 23:28:29,207 | INFO | src.data_validation | Starting data validation.
+2026-11-04 23:28:29,207 | INFO | src.data_validation | Schema validation passed.
+2026-11-04 23:28:29,220 | WARNING | src.data_validation | Dataset contains 1 invalid dates.
+2026-11-04 23:28:29,222 | INFO | src.data_validation | Data validation completed successfully.
+2026-11-04 23:33:50,551 | INFO | src.model_training | Starting stratified device-level split.
+2026-11-04 23:33:50,710 | INFO | src.model_training | Device-level split completed successfully.
+2026-11-04 23:33:50,736 | INFO | src.model_training | Starting stratified device-level split.
+2026-11-04 23:33:50,762 | INFO | src.model_training | Device-level split completed successfully.
+2026-11-04 23:33:50,762 | INFO | src.model_training | Starting model training and threshold analysis.
+2026-11-04 23:33:50,772 | INFO | src.model_training | Training model: Dummy Classifier
+2026-11-04 23:33:50,843 | INFO | src.model_training | Training model: Logistic Regression
+2026-11-04 23:33:50,964 | INFO | src.model_training | Training model: Random Forest
+2026-11-04 23:33:52,585 | INFO | src.model_training | Threshold analysis completed successfully.
+2026-11-04 23:33:52,590 | INFO | src.model_training | Starting final test evaluation.
+2026-11-04 23:33:52,977 | INFO | src.model_training | Final test evaluation completed.
+2026-11-04 23:33:53,004 | INFO | src.model_training | Starting stratified device-level split.
+2026-11-04 23:33:53,025 | INFO | src.model_training | Device-level split completed successfully.
+2026-11-04 23:33:53,027 | INFO | src.model_training | Starting model training and threshold analysis.
+2026-11-04 23:33:53,031 | ERROR | src.model_training | Model training or threshold analysis failed.
+Traceback (most recent call last):
+  File "C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\src\model_training.py", line 229, in train_and_evaluate_models
+    raise ValueError(
+ValueError: Training and validation must contain both classes.
+2026-11-04 23:39:03,686 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-04 23:39:09,843 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-04 23:39:09,843 | INFO | api.main | Predictive maintenance model initialized.
+2026-11-04 23:41:37,836 | INFO | api.main | Received prediction request with 1 observations.
+2026-11-04 23:41:37,839 | INFO | src.model_inference | Starting inference for 1 observations.
+2026-11-04 23:41:38,563 | INFO | src.model_inference | Inference completed successfully. Predicted failures: 0
+2026-11-04 23:44:07,941 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-04 23:44:13,763 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-04 23:44:13,765 | INFO | api.main | Predictive maintenance model initialized.
+2026-11-04 23:44:21,040 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-04 23:44:25,881 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-04 23:44:25,881 | INFO | api.main | Predictive maintenance model initialized.
+2026-11-04 23:44:41,873 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-04 23:44:45,426 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-04 23:44:45,426 | INFO | api.main | Predictive maintenance model initialized.
+2026-11-04 23:44:45,630 | INFO | api.main | Received prediction request with 1 observations.
+2026-11-04 23:44:45,633 | INFO | src.model_inference | Starting inference for 1 observations.
+2026-11-04 23:44:45,826 | INFO | src.model_inference | Inference completed successfully. Predicted failures: 0
+2026-11-04 23:45:46,919 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-04 23:45:51,175 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-04 23:45:51,177 | INFO | api.main | Predictive maintenance model initialized.
+2026-11-04 23:45:51,485 | INFO | api.main | Received prediction request with 1 observations.
+2026-11-04 23:45:51,486 | INFO | src.model_inference | Starting inference for 1 observations.
+2026-11-04 23:45:51,639 | INFO | src.model_inference | Inference completed successfully. Predicted failures: 0
+2026-11-04 23:45:51,691 | INFO | src.data_validation | Starting data validation.
+2026-11-04 23:45:51,691 | INFO | src.data_validation | Schema validation passed.
+2026-11-04 23:45:51,727 | INFO | src.data_validation | Data validation completed successfully.
+2026-11-04 23:45:51,734 | INFO | src.data_validation | Starting data validation.
+2026-11-04 23:45:51,736 | INFO | src.data_validation | Schema validation passed.
+2026-11-04 23:45:51,749 | WARNING | src.data_validation | Dataset contains 1 missing cells.
+2026-11-04 23:45:51,749 | INFO | src.data_validation | Data validation completed successfully.
+2026-11-04 23:45:51,761 | INFO | src.data_validation | Starting data validation.
+2026-11-04 23:45:51,762 | INFO | src.data_validation | Schema validation passed.
+2026-11-04 23:45:51,769 | WARNING | src.data_validation | Dataset contains 1 duplicate records.
+2026-11-04 23:45:51,771 | INFO | src.data_validation | Data validation completed successfully.
+2026-11-04 23:45:51,786 | INFO | src.data_validation | Starting data validation.
+2026-11-04 23:45:51,786 | INFO | src.data_validation | Schema validation passed.
+2026-11-04 23:45:51,797 | WARNING | src.data_validation | Target variable contains invalid or missing values.
+2026-11-04 23:45:51,798 | INFO | src.data_validation | Data validation completed successfully.
+2026-11-04 23:45:51,811 | INFO | src.data_validation | Starting data validation.
+2026-11-04 23:45:51,811 | ERROR | src.data_validation | Data validation failed.
+Traceback (most recent call last):
+  File "C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\src\data_validation.py", line 48, in validate_data
+    raise DataValidationError(
+src.data_validation.DataValidationError: Missing required columns: ['metric1']
+2026-11-04 23:45:51,821 | INFO | src.data_validation | Starting data validation.
+2026-11-04 23:45:51,823 | ERROR | src.data_validation | Data validation failed.
+Traceback (most recent call last):
+  File "C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\src\data_validation.py", line 35, in validate_data
+    raise DataValidationError(
+src.data_validation.DataValidationError: Cannot validate an empty dataset.
+2026-11-04 23:45:51,833 | INFO | src.data_validation | Starting data validation.
+2026-11-04 23:45:51,833 | INFO | src.data_validation | Schema validation passed.
+2026-11-04 23:45:51,837 | WARNING | src.data_validation | Dataset contains 1 invalid dates.
+2026-11-04 23:45:51,838 | INFO | src.data_validation | Data validation completed successfully.
+2026-11-04 23:45:51,851 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-04 23:45:52,024 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-04 23:45:52,154 | INFO | src.model_inference | Starting inference for 5 observations.
+2026-11-04 23:45:52,240 | INFO | src.model_inference | Inference completed successfully. Predicted failures: 0
+2026-11-04 23:45:52,251 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-04 23:45:52,392 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-04 23:45:52,498 | INFO | src.model_inference | Starting inference for 5 observations.
+2026-11-04 23:45:52,582 | INFO | src.model_inference | Inference completed successfully. Predicted failures: 0
+2026-11-04 23:45:52,589 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-04 23:45:52,762 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-04 23:45:52,898 | INFO | src.model_inference | Starting inference for 5 observations.
+2026-11-04 23:45:52,992 | INFO | src.model_inference | Inference completed successfully. Predicted failures: 0
+2026-11-04 23:45:53,002 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-04 23:45:53,226 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-04 23:45:53,333 | INFO | src.model_inference | Starting inference for 5 observations.
+2026-11-04 23:45:53,333 | ERROR | src.model_inference | Input validation failed.
+Traceback (most recent call last):
+  File "C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\src\model_inference.py", line 112, in validate_input
+    raise ValueError(
+ValueError: Missing features: ['metric1']
+2026-11-04 23:45:53,344 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-04 23:45:53,522 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-04 23:45:53,522 | INFO | src.model_inference | Starting inference for 0 observations.
+2026-11-04 23:45:53,522 | ERROR | src.model_inference | Input validation failed.
+Traceback (most recent call last):
+  File "C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\src\model_inference.py", line 103, in validate_input
+    raise ValueError("Input data is empty.")
+ValueError: Input data is empty.
+2026-11-04 23:45:53,556 | INFO | src.model_training | Starting stratified device-level split.
+2026-11-04 23:45:53,618 | INFO | src.model_training | Device-level split completed successfully.
+2026-11-04 23:45:53,633 | INFO | src.model_training | Starting stratified device-level split.
+2026-11-04 23:45:53,654 | INFO | src.model_training | Device-level split completed successfully.
+2026-11-04 23:45:53,657 | INFO | src.model_training | Starting model training and threshold analysis.
+2026-11-04 23:45:53,659 | INFO | src.model_training | Training model: Dummy Classifier
+2026-11-04 23:45:53,736 | INFO | src.model_training | Training model: Logistic Regression
+2026-11-04 23:45:53,854 | INFO | src.model_training | Training model: Random Forest
+2026-11-04 23:45:55,391 | INFO | src.model_training | Threshold analysis completed successfully.
+2026-11-04 23:45:55,399 | INFO | src.model_training | Starting final test evaluation.
+2026-11-04 23:45:55,780 | INFO | src.model_training | Final test evaluation completed.
+2026-11-04 23:45:55,796 | INFO | src.model_training | Starting stratified device-level split.
+2026-11-04 23:45:55,814 | INFO | src.model_training | Device-level split completed successfully.
+2026-11-04 23:45:55,814 | INFO | src.model_training | Starting model training and threshold analysis.
+2026-11-04 23:45:55,823 | ERROR | src.model_training | Model training or threshold analysis failed.
+Traceback (most recent call last):
+  File "C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\src\model_training.py", line 229, in train_and_evaluate_models
+    raise ValueError(
+ValueError: Training and validation must contain both classes.
+2026-11-04 23:47:10,497 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-04 23:47:15,080 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-04 23:47:15,084 | INFO | api.main | Predictive maintenance model initialized.
+2026-11-04 23:47:44,782 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-04 23:47:49,468 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-04 23:47:49,468 | INFO | api.main | Predictive maintenance model initialized.
+2026-11-04 23:51:44,812 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-04 23:51:49,991 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-04 23:51:49,991 | INFO | api.main | Predictive maintenance model initialized.
+2026-11-04 23:51:54,027 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-04 23:51:58,789 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-04 23:51:58,797 | INFO | api.main | Predictive maintenance model initialized.
+2026-11-04 23:52:12,305 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-04 23:52:17,010 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-04 23:52:17,010 | INFO | api.main | Predictive maintenance model initialized.
+2026-11-04 23:52:40,026 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-04 23:52:44,177 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-04 23:52:44,177 | INFO | api.main | Predictive maintenance model initialized.
+2026-11-04 23:57:12,826 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-04 23:57:17,788 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-04 23:57:17,788 | INFO | api.main | Predictive maintenance model initialized.
+2026-11-04 23:57:21,933 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-04 23:57:26,294 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-04 23:57:26,296 | INFO | api.main | Predictive maintenance model initialized.
+2026-11-04 23:58:11,925 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-04 23:58:15,992 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-04 23:58:15,992 | INFO | api.main | Predictive maintenance model initialized.
+2026-11-04 23:58:16,257 | INFO | api.main | Received prediction request with 1 observations.
+2026-11-04 23:58:16,261 | INFO | src.model_inference | Starting inference for 1 observations.
+2026-11-04 23:58:16,409 | INFO | src.model_inference | Inference completed successfully. Predicted failures: 0
+2026-11-04 23:58:16,479 | INFO | src.data_validation | Starting data validation.
+2026-11-04 23:58:16,480 | INFO | src.data_validation | Schema validation passed.
+2026-11-04 23:58:16,545 | INFO | src.data_validation | Data validation completed successfully.
+2026-11-04 23:58:16,579 | INFO | src.data_validation | Starting data validation.
+2026-11-04 23:58:16,579 | INFO | src.data_validation | Schema validation passed.
+2026-11-04 23:58:16,594 | WARNING | src.data_validation | Dataset contains 1 missing cells.
+2026-11-04 23:58:16,596 | INFO | src.data_validation | Data validation completed successfully.
+2026-11-04 23:58:16,610 | INFO | src.data_validation | Starting data validation.
+2026-11-04 23:58:16,610 | INFO | src.data_validation | Schema validation passed.
+2026-11-04 23:58:16,627 | WARNING | src.data_validation | Dataset contains 1 duplicate records.
+2026-11-04 23:58:16,627 | INFO | src.data_validation | Data validation completed successfully.
+2026-11-04 23:58:16,639 | INFO | src.data_validation | Starting data validation.
+2026-11-04 23:58:16,639 | INFO | src.data_validation | Schema validation passed.
+2026-11-04 23:58:16,647 | WARNING | src.data_validation | Target variable contains invalid or missing values.
+2026-11-04 23:58:16,647 | INFO | src.data_validation | Data validation completed successfully.
+2026-11-04 23:58:16,666 | INFO | src.data_validation | Starting data validation.
+2026-11-04 23:58:16,666 | ERROR | src.data_validation | Data validation failed.
+Traceback (most recent call last):
+  File "C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\src\data_validation.py", line 42, in validate_data
+    raise DataValidationError(
+src.data_validation.DataValidationError: Missing required columns: ['metric1']
+2026-11-04 23:58:16,675 | INFO | src.data_validation | Starting data validation.
+2026-11-04 23:58:16,675 | ERROR | src.data_validation | Data validation failed.
+Traceback (most recent call last):
+  File "C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\src\data_validation.py", line 32, in validate_data
+    raise DataValidationError("Cannot validate an empty dataset.")
+src.data_validation.DataValidationError: Cannot validate an empty dataset.
+2026-11-04 23:58:16,696 | INFO | src.data_validation | Starting data validation.
+2026-11-04 23:58:16,697 | INFO | src.data_validation | Schema validation passed.
+2026-11-04 23:58:16,708 | WARNING | src.data_validation | Dataset contains 1 invalid dates.
+2026-11-04 23:58:16,711 | INFO | src.data_validation | Data validation completed successfully.
+2026-11-04 23:58:16,720 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-04 23:58:17,172 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-04 23:58:17,380 | INFO | src.model_inference | Starting inference for 5 observations.
+2026-11-04 23:58:17,473 | INFO | src.model_inference | Inference completed successfully. Predicted failures: 0
+2026-11-04 23:58:17,478 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-04 23:58:17,688 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-04 23:58:17,827 | INFO | src.model_inference | Starting inference for 5 observations.
+2026-11-04 23:58:17,961 | INFO | src.model_inference | Inference completed successfully. Predicted failures: 0
+2026-11-04 23:58:17,976 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-04 23:58:18,472 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-04 23:58:18,661 | INFO | src.model_inference | Starting inference for 5 observations.
+2026-11-04 23:58:18,801 | INFO | src.model_inference | Inference completed successfully. Predicted failures: 0
+2026-11-04 23:58:18,813 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-04 23:58:19,032 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-04 23:58:19,195 | INFO | src.model_inference | Starting inference for 5 observations.
+2026-11-04 23:58:19,195 | ERROR | src.model_inference | Input validation failed.
+Traceback (most recent call last):
+  File "C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\src\model_inference.py", line 98, in validate_input
+    raise ValueError(f"Missing features: {missing_columns}")
+ValueError: Missing features: ['metric1']
+2026-11-04 23:58:19,207 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-04 23:58:19,438 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-04 23:58:19,440 | INFO | src.model_inference | Starting inference for 0 observations.
+2026-11-04 23:58:19,440 | ERROR | src.model_inference | Input validation failed.
+Traceback (most recent call last):
+  File "C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\src\model_inference.py", line 89, in validate_input
+    raise ValueError("Input data is empty.")
+ValueError: Input data is empty.
+2026-11-04 23:58:19,513 | INFO | src.model_training | Starting stratified device-level split.
+2026-11-04 23:58:19,705 | INFO | src.model_training | Device-level split completed successfully.
+2026-11-04 23:58:19,744 | INFO | src.model_training | Starting stratified device-level split.
+2026-11-04 23:58:19,778 | INFO | src.model_training | Device-level split completed successfully.
+2026-11-04 23:58:19,780 | INFO | src.model_training | Starting model training and threshold analysis.
+2026-11-04 23:58:19,785 | INFO | src.model_training | Training model: Dummy Classifier
+2026-11-04 23:58:19,871 | INFO | src.model_training | Training model: Logistic Regression
+2026-11-04 23:58:19,993 | INFO | src.model_training | Training model: Random Forest
+2026-11-04 23:58:21,357 | INFO | src.model_training | Threshold analysis completed successfully.
+2026-11-04 23:58:21,362 | INFO | src.model_training | Starting final test evaluation.
+2026-11-04 23:58:21,730 | INFO | src.model_training | Final test evaluation completed.
+2026-11-04 23:58:21,746 | INFO | src.model_training | Starting stratified device-level split.
+2026-11-04 23:58:21,759 | INFO | src.model_training | Device-level split completed successfully.
+2026-11-04 23:58:21,762 | INFO | src.model_training | Starting model training and threshold analysis.
+2026-11-04 23:58:21,762 | ERROR | src.model_training | Model training or threshold analysis failed.
+Traceback (most recent call last):
+  File "C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\src\model_training.py", line 209, in train_and_evaluate_models
+    raise ValueError("Training and validation must contain both classes.")
+ValueError: Training and validation must contain both classes.
+2026-11-09 16:02:40,394 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-09 16:02:50,320 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-09 16:03:36,565 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-09 16:03:42,988 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-09 16:06:11,233 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-09 16:06:16,888 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-09 16:06:16,908 | INFO | src.model_inference | Starting inference for 1 observations.
+2026-11-09 16:06:17,240 | INFO | src.model_inference | Inference completed successfully. Predicted failures: 0
+2026-11-09 16:06:51,960 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-09 16:06:56,911 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-09 16:06:56,911 | INFO | api.main | Predictive maintenance model initialized.
+2026-11-09 16:07:48,295 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-09 16:07:55,843 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-09 16:07:55,843 | INFO | api.main | Predictive maintenance model initialized.
+2026-11-09 16:15:59,016 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-09 16:16:06,320 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-09 16:16:06,320 | INFO | api.main | Predictive maintenance model initialized.
+2026-11-09 16:16:06,861 | INFO | api.main | Received prediction request with 1 observations.
+2026-11-09 16:16:06,861 | INFO | src.model_inference | Starting inference for 1 observations.
+2026-11-09 16:16:07,058 | INFO | src.model_inference | Inference completed successfully. Predicted failures: 0
+2026-11-09 16:16:07,122 | INFO | src.data_validation | Starting data validation.
+2026-11-09 16:16:07,122 | INFO | src.data_validation | Schema validation passed.
+2026-11-09 16:16:07,157 | INFO | src.data_validation | Data validation completed successfully.
+2026-11-09 16:16:07,167 | INFO | src.data_validation | Starting data validation.
+2026-11-09 16:16:07,167 | INFO | src.data_validation | Schema validation passed.
+2026-11-09 16:16:07,179 | WARNING | src.data_validation | Dataset contains 1 missing cells.
+2026-11-09 16:16:07,179 | INFO | src.data_validation | Data validation completed successfully.
+2026-11-09 16:16:07,189 | INFO | src.data_validation | Starting data validation.
+2026-11-09 16:16:07,189 | INFO | src.data_validation | Schema validation passed.
+2026-11-09 16:16:07,195 | WARNING | src.data_validation | Dataset contains 1 duplicate records.
+2026-11-09 16:16:07,195 | INFO | src.data_validation | Data validation completed successfully.
+2026-11-09 16:16:07,200 | INFO | src.data_validation | Starting data validation.
+2026-11-09 16:16:07,200 | INFO | src.data_validation | Schema validation passed.
+2026-11-09 16:16:07,218 | WARNING | src.data_validation | Target variable contains invalid or missing values.
+2026-11-09 16:16:07,218 | INFO | src.data_validation | Data validation completed successfully.
+2026-11-09 16:16:07,229 | INFO | src.data_validation | Starting data validation.
+2026-11-09 16:16:07,232 | ERROR | src.data_validation | Data validation failed.
+Traceback (most recent call last):
+  File "C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\src\data_validation.py", line 42, in validate_data
+    raise DataValidationError(
+src.data_validation.DataValidationError: Missing required columns: ['metric1']
+2026-11-09 16:16:07,288 | INFO | src.data_validation | Starting data validation.
+2026-11-09 16:16:07,288 | ERROR | src.data_validation | Data validation failed.
+Traceback (most recent call last):
+  File "C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\src\data_validation.py", line 32, in validate_data
+    raise DataValidationError("Cannot validate an empty dataset.")
+src.data_validation.DataValidationError: Cannot validate an empty dataset.
+2026-11-09 16:16:07,298 | INFO | src.data_validation | Starting data validation.
+2026-11-09 16:16:07,298 | INFO | src.data_validation | Schema validation passed.
+2026-11-09 16:16:07,298 | WARNING | src.data_validation | Dataset contains 1 invalid dates.
+2026-11-09 16:16:07,308 | INFO | src.data_validation | Data validation completed successfully.
+2026-11-09 16:16:07,324 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-09 16:16:07,476 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-09 16:16:07,609 | INFO | src.model_inference | Starting inference for 5 observations.
+2026-11-09 16:16:07,671 | INFO | src.model_inference | Inference completed successfully. Predicted failures: 0
+2026-11-09 16:16:07,682 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-09 16:16:07,814 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-09 16:16:07,897 | INFO | src.model_inference | Starting inference for 5 observations.
+2026-11-09 16:16:07,971 | INFO | src.model_inference | Inference completed successfully. Predicted failures: 0
+2026-11-09 16:16:07,981 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-09 16:16:08,132 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-09 16:16:08,235 | INFO | src.model_inference | Starting inference for 5 observations.
+2026-11-09 16:16:08,297 | INFO | src.model_inference | Inference completed successfully. Predicted failures: 0
+2026-11-09 16:16:08,308 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-09 16:16:08,525 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-09 16:16:08,633 | INFO | src.model_inference | Starting inference for 5 observations.
+2026-11-09 16:16:08,633 | ERROR | src.model_inference | Input validation failed.
+Traceback (most recent call last):
+  File "C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\src\model_inference.py", line 98, in validate_input
+    raise ValueError(f"Missing features: {missing_columns}")
+ValueError: Missing features: ['metric1']
+2026-11-09 16:16:08,684 | INFO | src.model_inference | Loading production model: C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\models\selected_model.joblib
+2026-11-09 16:16:08,884 | INFO | src.model_inference | Model loaded successfully: Random Forest
+2026-11-09 16:16:08,887 | INFO | src.model_inference | Starting inference for 0 observations.
+2026-11-09 16:16:08,887 | ERROR | src.model_inference | Input validation failed.
+Traceback (most recent call last):
+  File "C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\src\model_inference.py", line 89, in validate_input
+    raise ValueError("Input data is empty.")
+ValueError: Input data is empty.
+2026-11-09 16:16:08,911 | INFO | src.model_training | Starting stratified device-level split.
+2026-11-09 16:16:08,952 | INFO | src.model_training | Device-level split completed successfully.
+2026-11-09 16:16:08,960 | INFO | src.model_training | Starting stratified device-level split.
+2026-11-09 16:16:08,969 | INFO | src.model_training | Device-level split completed successfully.
+2026-11-09 16:16:08,969 | INFO | src.model_training | Starting model training and threshold analysis.
+2026-11-09 16:16:08,969 | INFO | src.model_training | Training model: Dummy Classifier
+2026-11-09 16:16:09,043 | INFO | src.model_training | Training model: Logistic Regression
+2026-11-09 16:16:09,149 | INFO | src.model_training | Training model: Random Forest
+2026-11-09 16:16:10,820 | INFO | src.model_training | Threshold analysis completed successfully.
+2026-11-09 16:16:10,827 | INFO | src.model_training | Starting final test evaluation.
+2026-11-09 16:16:11,175 | INFO | src.model_training | Final test evaluation completed.
+2026-11-09 16:16:11,190 | INFO | src.model_training | Starting stratified device-level split.
+2026-11-09 16:16:11,196 | INFO | src.model_training | Device-level split completed successfully.
+2026-11-09 16:16:11,196 | INFO | src.model_training | Starting model training and threshold analysis.
+2026-11-09 16:16:11,204 | ERROR | src.model_training | Model training or threshold analysis failed.
+Traceback (most recent call last):
+  File "C:\data\BITS_Pilani\Semester3\SEForML\Assignment2_SWML\src\model_training.py", line 209, in train_and_evaluate_models
+    raise ValueError("Training and validation must contain both classes.")
+ValueError: Training and validation must contain both classes.

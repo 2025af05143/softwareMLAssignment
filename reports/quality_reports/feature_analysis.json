@@ -1,0 +1,31 @@
+{
+    "zero_percentage": {
+        "metric1": 0.01,
+        "metric2": 94.87,
+        "metric3": 92.66,
+        "metric4": 92.5,
+        "metric5": 0.0,
+        "metric6": 0.0,
+        "metric7": 98.83,
+        "metric8": 98.83,
+        "metric9": 78.2
+    },
+    "metric7_metric8_identical": true,
+    "correlation_with_failure": {
+        "metric1": 0.00198,
+        "metric2": 0.0529,
+        "metric3": -0.00095,
+        "metric4": 0.0674,
+        "metric5": 0.00227,
+        "metric6": -0.00055,
+        "metric7": 0.11905,
+        "metric8": 0.11905,
+        "metric9": 0.00107
+    },
+    "duplicate_device_date_combinations": 1,
+    "records_per_device": {
+        "minimum": 1,
+        "maximum": 304,
+        "average": 106.5
+    }
+}

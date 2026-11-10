@@ -1,0 +1,23 @@
+{
+    "dataset_rows": 124493,
+    "feature_columns": [
+        "metric1",
+        "metric2",
+        "metric3",
+        "metric4",
+        "metric5",
+        "metric6",
+        "metric7",
+        "metric9",
+        "day_of_week",
+        "month",
+        "day_of_month"
+    ],
+    "target_column": "failure",
+    "excluded_columns": [
+        "device",
+        "metric8",
+        "date"
+    ],
+    "removed_exact_duplicates": 1
+}

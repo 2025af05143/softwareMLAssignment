@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+seaborn
+
+fastapi
+uvicorn[standard]
+
+pytest
+httpx
+
+black
+flake8
+isort
